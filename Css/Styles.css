@@ -1,0 +1,170 @@
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Advent Pro', sans-serif;
+
+}
+
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Caveat', cursive;
+  font-size: 500%;;
+  color:
+
+
+}
+
+h2{
+      font-size: 2.5rem;
+      color: #ffb5b5;
+      font-weight: normal;
+      line-height: 2;
+      padding-bottom: 30px;
+      margin: 0;
+      font-family: 'Caveat', cursive;
+
+}
+
+h3{
+  color:#ffb5b5;
+
+}
+
+hr{
+  border: dotted #ffb5b5 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+.top-container{
+  background-color:#ddb6c;
+  position: relative;
+  padding-top: 100px;
+  margin-bottom: 0;
+  font-size: 1.5rem;
+  background-color: #ffb5b5;
+
+}
+
+.middle-container{
+  font-family: 'Handlee', cursive;
+  color: #ffb5b5;
+  padding-top: 100px;
+  padding-bottom: 50px;
+  background-color: #414141;
+
+}
+
+
+.bottom-container{
+  background-color: #ffb5b5;
+  padding: 50px 0 20px 0;
+}
+
+
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+  color: #white;
+
+}
+
+.skills{
+  font-size: 20px;
+}
+
+
+a{
+  color: #414141;
+  font-family: 'Advent Pro', sans-serif;
+  margin: 15px 10px;
+  text-decoration: none;
+  font-size: 20px;
+
+}
+a:hover{
+  color: #fae3d9;
+}
+.css{
+  width: 15%;
+  float: right;
+  margin-right: 30px;
+}
+.html{
+  width: 15%;
+  Float: left;
+  margin-right: 30px;
+}
+
+p{
+  line-height: 2;
+  color: #fae3d9;
+
+}
+.margin-1{
+  color: #414141;
+  font-size: 0.75rem;
+  padding-top:20px;
+}
+.p-middle{
+  margin-bottom: 100px;
+  font-size: 23px;
+  color: #white;
+}
+
+
+.profile{
+  width: 15%;
+  margin: auto;
+}
+
+.p-bottom{
+  font-size: 20px;
+}
+
+
+.contact-me{
+  color: white;
+
+}
+
+
+.btn {
+  background: #ffb5b5;
+  background-image: -webkit-linear-gradient(top, #ffb5b5, #c2c2c2);
+  background-image: -moz-linear-gradient(top, #ffb5b5, #c2c2c2);
+  background-image: -ms-linear-gradient(top, #ffb5b5, #c2c2c2);
+  background-image: -o-linear-gradient(top, #ffb5b5, #c2c2c2);
+  background-image: linear-gradient(to bottom, #ffb5b5, #c2c2c2);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 8px 16px 9px 15px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #ffb5b5;
+  background-image: -webkit-linear-gradient(top, #ffb5b5, #bfbfbf);
+  background-image: -moz-linear-gradient(top, #ffb5b5, #bfbfbf);
+  background-image: -ms-linear-gradient(top, #ffb5b5, #bfbfbf);
+  background-image: -o-linear-gradient(top, #ffb5b5, #bfbfbf);
+  background-image: linear-gradient(to bottom, #ffb5b5, #bfbfbf);
+  text-decoration: none;
+}
+.profile-pic{
+  border-radius: 100px;
+  width: 15rem;
+}
+
+.firstheading{
+  color: #414141;
+  
+}
